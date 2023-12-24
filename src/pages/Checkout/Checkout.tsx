@@ -44,7 +44,8 @@ const Checkout: React.FC = () => {
                                 <p>
                                     total
                                     <span>
-                                        : &#8377;{item.quantity * item.price}
+                                        : &#8377;
+                                        {(item.quantity as number) * item.price}
                                     </span>
                                 </p>
                             </li>
