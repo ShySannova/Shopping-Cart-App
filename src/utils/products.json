@@ -1,0 +1,149 @@
+[
+    {
+        "id": 1,
+        "name": "Laptop",
+        "price": 999.99,
+        "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/g/v/h/-original-imagqbudxbf9djaz.jpeg?q=70",
+        "details": "Powerful laptop with high-performance specifications."
+    },
+    {
+        "id": 2,
+        "name": "Smartphone",
+        "price": 599.99,
+        "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/b/u/8/c65-mzb0g8nin-poco-original-imagw6j2kp5t5jek.jpeg?q=70",
+        "details": "Latest smartphone with a stunning display and advanced camera."
+    },
+    {
+        "id": 3,
+        "name": "Headphones",
+        "price": 149.99,
+        "image": "https://rukminim2.flixcart.com/image/612/612/ks4yz680/headphone/d/n/l/wireless-bluetooth-headphone-mic-for-calling-sd-card-wanzhow-original-imag5rzj4nnb8hdt.jpeg?q=70",
+        "details": "Wireless headphones with noise-canceling technology."
+    },
+    {
+        "id": 4,
+        "name": "Tablet",
+        "price": 299.99,
+        "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/tablet/h/4/s/-original-imagu2h39539yhry.jpeg?q=70",
+        "details": "Compact tablet for entertainment and productivity on the go."
+    },
+    {
+        "id": 5,
+        "name": "Smartwatch",
+        "price": 129.99,
+        "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/smartwatch/z/z/w/39-i7-pro-max-android-ios-punnkfunnk-yes-original-imagsdbzyskcjzff.jpeg?q=70",
+        "details": "Feature-rich smartwatch with health and fitness tracking."
+    },
+    {
+        "id": 6,
+        "name": "4K Smart TV",
+        "price": 799.99,
+        "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/television/b/s/o/-original-imagt86kchfhpwgz.jpeg?q=70",
+        "details": "Immersive 4K Smart TV with a large screen and streaming capabilities."
+    },
+    {
+        "id": 7,
+        "name": "Gaming Console",
+        "price": 499.99,
+        "image": "https://rukminim2.flixcart.com/image/612/612/kpbipow0/gamingconsole/x/r/v/na-tv-video-gaming-box-with-inbuilt-games-like-contra-super-original-imag3kzpmj8hzfbp.jpeg?q=70",
+        "details": "High-performance gaming console for an immersive gaming experience."
+    },
+    {
+        "id": 8,
+        "name": "Wireless Speaker",
+        "price": 79.99,
+        "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/speaker/laptop-desktop-speaker/6/8/k/mini-2-0-usb-multimedia-speakers-portable-laptop-desktop-speaker-original-imagtjz6ke3ytcmr.jpeg?q=70",
+        "details": "Portable wireless speaker with crisp and clear sound."
+    },
+    {
+        "id": 9,
+        "name": "Camera Drone",
+        "price": 399.99,
+        "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/drone/m/h/q/40-24-1-4k-wifi-dual-camera-drone-for-adults-kids-with-2-original-imagrfa6esxteknr.jpeg?q=70",
+        "details": "Camera drone for aerial photography and videography."
+    },
+    {
+        "id": 10,
+        "name": "Coffee Maker",
+        "price": 49.99,
+        "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/coffee-maker/d/q/8/coffee-grinder-rechargeable-v1-rechargeable-coffee-bean-grinder-original-imagwfq43cgyx9k3.jpeg?q=70",
+        "details": "Programmable coffee maker for brewing your favorite beverages."
+    },
+    {
+        "id": 11,
+        "name": "Fitness Tracker",
+        "price": 89.99,
+        "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/smartwatch/q/f/u/44-116-android-ios-quashwin-no-original-imag963jgfxbdk8b.jpeg?q=70",
+        "details": "Fitness tracker with heart rate monitoring and activity tracking."
+    },
+    {
+        "id": 12,
+        "name": "External Hard Drive",
+        "price": 119.99,
+        "image": "https://rukminim2.flixcart.com/image/300/300/l45xea80/external-hard-drive/hdd/n/h/n/basic-portable-drive-stjl1000400-seagate-original-imagf4h9btsyra5w.jpeg?q=90",
+        "details": "High-capacity external hard drive for data storage and backup."
+    },
+    {
+        "id": 13,
+        "name": "Bluetooth Earbuds",
+        "price": 59.99,
+        "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/j/t/c/-original-imaghbdup9jbrdzh.jpeg?q=70",
+        "details": "Wireless Bluetooth earbuds for a tangle-free listening experience."
+    },
+    {
+        "id": 14,
+        "name": "Robot Vacuum Cleaner",
+        "price": 299.99,
+        "image": "https://rukminim2.flixcart.com/image/312/312/ku4ezrk0/vacuum-cleaner/e/y/s/rmh2101-realme-techlife-original-imag7bm8bgg7znap.jpeg?q=70",
+        "details": "Smart robot vacuum cleaner for automated cleaning tasks."
+    },
+    {
+        "id": 15,
+        "name": "Graphic Design Tablet",
+        "price": 199.99,
+        "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/graphics-tablet/s/r/m/medium-ruffpad-15-por-1237-1024-no-ruffpad-15-portronics-original-imagqmsjapf8znf8.jpeg?q=70",
+        "details": "Graphics tablet for digital artists and designers."
+    },
+    {
+        "id": 16,
+        "name": "Wireless Keyboard and Mouse",
+        "price": 69.99,
+        "image": "https://rukminim2.flixcart.com/image/612/612/kw5ag7k0/keyboard/laptop-keyboard/9/6/q/els-kmc-752-wireless-keyboard-and-mouse-combo-2-4-ghz-wireless-original-imag8vymny3rhbbg.jpeg?q=70",
+        "details": "Wireless keyboard and mouse combo for convenient computing."
+    },
+    {
+        "id": 17,
+        "name": "Smart Thermostat",
+        "price": 129.99,
+        "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/multipurpose-controller/a/f/8/110-50-110c-intelligent-digital-thermostat-ac-220v-1500w-digital-original-imagremyjqhzrghe.jpeg?q=70",
+        "details": "Smart thermostat for energy-efficient home temperature control."
+    },
+    {
+        "id": 18,
+        "name": "Security Camera System",
+        "price": 349.99,
+        "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/home-security-camera/e/9/i/1-oxs-double-antenna-0020-indoor-security-camera-onexsale-original-imagzq6jcdwps4gu.jpeg?q=70",
+        "details": "Home security camera system for surveillance and monitoring."
+    },
+    {
+        "id": 19,
+        "name": "Wireless Router",
+        "price": 89.99,
+        "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/router/q/7/7/5g-sim-router-with-triple-antenna-support-all-gsm-sim-with-120-original-imagze7cfw32vcrw.jpeg?q=70",
+        "details": "High-speed wireless router for seamless internet connectivity."
+    },
+    {
+        "id": 20,
+        "name": "Electric Toothbrush",
+        "price": 39.99,
+        "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/electric-toothbrush/b/d/4/cosmic-plus-sonic-33438-agaro-original-imagkgy9kgmwezhx.jpeg?q=70",
+        "details": "Electric toothbrush for efficient and thorough oral care."
+    },
+    {
+        "id": 21,
+        "name": "Air Purifier",
+        "price": 149.99,
+        "image": "https://rukminim2.flixcart.com/image/312/312/l5h2xe80/air-purifier/g/z/9/5-5-aromatherapy-flame-light-quiet-aroma-humidifier-with-avocado-original-imagg549bjztequk.jpeg?q=70",
+        "details": "Air purifier for cleaner and healthier indoor air."
+    }
+]
